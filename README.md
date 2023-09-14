@@ -20,3 +20,9 @@ Create an array containing each of the following patterns:
 
 ## Question 5
 Print the prime numbers less than 100 to the screen.
+
+## Question 6
+Given a String, count how many of the letter 'e' appear.
+
+## Question 7
+Given an array of integers, find the average.
