@@ -14,7 +14,7 @@ Write a program that will ask the user for a grade until the user enters an inva
 Create an array containing each of the following patterns:
 
 * 0, 3, 6, 9, ..., 99
-* 1, 4, 8, 16, ... 100
+* 2, 4, 6, 8, ... 100
 * CHALLENGE: 'A', 'B', ..., 'Z'
 
 
